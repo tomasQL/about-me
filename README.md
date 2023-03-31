@@ -6,7 +6,7 @@ Repositorio orientado a definir y compartir mi "stack" tecnológico, algunos log
 *Los libros académicos y profesionales son los que más analizo y estudio para fundamentar en su totalidad mis conocimientos en el desarrollo de Software.*
 
 Nota general:
-Aprendé a usar una herramienta para suplir una necesidad, no inventés una necesidad para poder usar una herramienta.
+Aprende a usar una herramienta para suplir una necesidad, no inventes una necesidad para poder usar una herramienta.
 
 *La teoría sin práctica no vale.*
 
