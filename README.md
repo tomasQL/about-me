@@ -1,7 +1,7 @@
 # Personal
 Repositorio orientado a definir y compartir mi "stack" tecnológico y, como tracking-doc de algunos logros personales, lecturas pendientes o algunas referencias sobre mi desarrollo profesional.
 
-*NOTA PARA EXTERNOS: No todos estos cursos o contenidos los hago porque sí, muchos empezaron como un mero reforzamiento de conceptos, otros los estudio porque su contenido es de un nivel de dificultad mayor para el desarrollo de mis habilidades y conocimientos profesionales; resultando en retos y metas.  
+*NOTA PARA EXTERNOS: No todos estos cursos o contenidos los hago porque sí, muchos empezaron como un mero reforzamiento de conceptos, otros los estudio porque su contenido es más avanzado; resultando en retos y metas.  
 
 *Los libros académicos y profesionales son los que más analizo y estudio para fundamentar en su totalidad mis conocimientos en el desarrollo de Software.*  
 
