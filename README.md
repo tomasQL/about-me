@@ -1,4 +1,4 @@
-# Personal
+# Acerca de mí
 Repositorio orientado a definir y compartir mi "stack" tecnológico y, como tracking-doc de algunos logros personales, lecturas pendientes o algunas referencias sobre mi desarrollo profesional.
 
 *NOTA PARA EXTERNOS: No todos estos cursos o contenidos los hago porque sí, muchos empezaron como un mero reforzamiento de conceptos, otros los estudio porque su contenido es más avanzado; resultando en retos y metas.  
